@@ -1,0 +1,44 @@
+body {
+  margin: 0;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color: #15202B !important;
+  font-family: 'Courier New', Courier, monospace !important;
+}
+.container {
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: beige;
+}
+.square {
+  width: 125px !important;
+  height: 125px !important;
+  text-align: center;
+  font-weight: 700;
+  font-size: 2rem !important;
+  border-color: aquamarine !important;
+  color: beige !important;
+}
+.square:hover {
+  background-color: #192734 !important;
+}
+.squareContainer {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.customText {
+  text-align: center;
+  margin: 1.75rem;
+}
+.resetButton {
+  display: block !important;
+  margin: 0 auto !important;
+  font-size: 16px !important;
+  background-color: #192734 !important;
+}
+.rowWidth{
+  max-width: 375px;
+}
