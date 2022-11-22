@@ -1,4 +1,4 @@
-React Tic Tac Toe Screenshots
+React Tic Tac Toe Screenshot
 
 ![Ekran görüntüsü 2022-11-22 225343](https://user-images.githubusercontent.com/28295214/203408679-9c60efd5-64fe-4b85-84d0-4b2fcefe3a8a.png)
 
